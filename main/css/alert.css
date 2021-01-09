@@ -1,0 +1,36 @@
+.alert {
+	margin:0px;
+    padding:5px 5px ;
+    position:fixed; 
+    top:60px;
+    right:10px;
+    width:auto;
+    z-index: 999;
+    display:none;
+    border-radius: 10px 10px 10px 10px;
+}
+.alert-danger {
+    background: var(--danger-color);
+    color:white;
+}
+
+.alert-success {
+    background: var(--success-color);
+    color:white;
+}
+
+.alert-primary {
+    background: var(--primary-color);
+    color:white;
+}
+
+.alert-warning {
+    background: var(--warning-color);
+    color:white;
+}
+
+.close-alert{
+    padding-left:30px;
+    font-size:20px;
+    cursor: pointer;
+}

@@ -1,0 +1,6 @@
+# classes feature - 
+    classes added done but some work ( dynamic students, making empty classes, student counts) are pending.
+    classes deleting is done.
+
+# section feature - 
+    sections added done but some work ( making empty classes, student counts) are pending.
